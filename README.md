@@ -62,7 +62,7 @@ Aplicación de preguntas y respuestas que consume la API de Open Trivia. Interfa
 
 - **GitHub:** [github.com/Kunzeu](https://github.com/Kunzeu)
 - **LinkedIn:** [linkedin.com/in/jhon13](https://www.linkedin.com/in/jhon13)
-- **Discord:** `Kunzeu#1234`
+- **Discord:** [Kunzeu](https://discord.com/users/552563672162107431)
 
 ---
 
