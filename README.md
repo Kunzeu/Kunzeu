@@ -38,23 +38,6 @@ Proyecto web responsivo donde se muestran camisetas de fútbol organizadas por e
 **Stack:** HTML, CSS, JS  
 [Ver repositorio](https://github.com/Kunzeu/jersey-web)
 
----
-
-### 🔁 Converter
-Conversor de unidades que permite cambiar entre monedas, temperaturas y edades. Proyecto educativo realizado con Alura Latam.
-
-![Converter](https://raw.githubusercontent.com/Kunzeu/Converter/main/assets/preview.png)  
-**Stack:** Java, Swing  
-[Ver repositorio](https://github.com/Kunzeu/Converter)
-
----
-
-### ❓ Quiz App
-Aplicación de preguntas y respuestas que consume la API de Open Trivia. Interface sencilla que guarda el puntaje del jugador.
-
-![Quiz](https://raw.githubusercontent.com/Kunzeu/Quiz/main/assets/preview.png)  
-**Stack:** HTML, CSS, JavaScript  
-[Ver repositorio](https://github.com/Kunzeu/Quiz)
 
 ---
 
