@@ -14,10 +14,10 @@ Soy desarrollador backend con enfoque en automatización, bots y herramientas ú
 
 ## 🧩 Proyectos destacados
 
-### 📚 [Moodle Bot](https://github.com/Kunzeu/Moodle)
+### 📚 [Qaliz Bot](https://github.com/Kunzeu/Qaliz)
 Bot de Discord orientado a facilitar el acceso a recursos y datos del juego Guild Wars 2. Automatiza tareas como precios, eventos y recetas diarias. Originalmente en JavaScript, reescrito en Python para mayor control y eficiencia.
 
-![Moodle Bot Preview](https://raw.githubusercontent.com/Kunzeu/Moodle-Bot/main/assets/preview.png)  
+![Qaliz Bot Preview](https://raw.githubusercontent.com/Kunzeu/Qaliz-Bot/main/assets/preview.png)  
 **Stack:** Python, `discord.py`, APIs externas, persistencia con JSON/SQLite
 
 ---
