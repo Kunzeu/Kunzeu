@@ -19,25 +19,17 @@ Bot de Discord orientado a facilitar el acceso a recursos y datos del juego Guil
 
 ![Qaliz Bot Preview](https://raw.githubusercontent.com/Kunzeu/Qaliz-Bot/main/assets/preview.png)  
 **Stack:** Python, `discord.py`, APIs externas, persistencia con JSON/SQLite
-
----
-
-### 🏨 Hotel Alura
-Aplicación de escritorio para la gestión de reservas hoteleras, desarrollada en Java. Permite registrar, consultar y modificar reservas, con interfaz gráfica y base de datos integrada.
-
-![Hotel Alura](https://raw.githubusercontent.com/Kunzeu/Hotel-Alura/main/assets/preview.png)  
-**Stack:** Java, Swing, MySQL  
-[Ver repositorio](https://github.com/Kunzeu/Hotel-Alura)
+[Ver web](https://qaliz.vercel.app/)
+[Demo](https://i.gyazo.com/a9c88dfbfa6b3deeac5117f1bb5225dc.gif)
 
 ---
 
 ### 🌐 Jersey Web
 Proyecto web responsivo donde se muestran camisetas de fútbol organizadas por equipo y tipo. Diseñado como vitrina de productos.
 
-![Jersey Web](https://raw.githubusercontent.com/Kunzeu/jersey-web/main/assets/preview.png)  
+![Jersey Web]([https://raw.githubusercontent.com/Kunzeu/jersey-web/main/assets/preview.png](https://i.gyazo.com/055e212646f8f0b5682d2f3204d5937c.png))  
 **Stack:** HTML, CSS, JS  
 [Ver repositorio](https://github.com/Kunzeu/jersey-web)
-
 
 ---
 
