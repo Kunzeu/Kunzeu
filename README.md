@@ -1,7 +1,7 @@
 # 👋 Hola, soy Kunzeu
 
-Soy desarrollador backend con enfoque en automatización, bots y herramientas útiles para comunidades. Me apasiona crear soluciones funcionales que hagan la vida más fácil, especialmente en entornos como Discord o juegos como Guild Wars 2. Busco crecer como profesional en el mundo del desarrollo remoto.
-
+Backend developer enfocado en construir herramientas que automatizan, simplifican y mejoran la experiencia de usuarios reales. Tengo experiencia desarrollando bots personalizados, conectando APIs y trabajando con tecnologías como Python, Flask, Discord.py y bases de datos como Firestore o MySQL.
+Actualmente estoy en búsqueda de oportunidades remotas donde pueda aportar mis conocimientos, seguir aprendiendo y desarrollarme junto a un equipo técnico comprometido.
 ---
 
 ## ⚙️ Tecnologías que uso
