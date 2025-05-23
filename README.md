@@ -19,7 +19,8 @@ Bot de Discord orientado a facilitar el acceso a recursos y datos del juego Guil
 
 ![Qaliz Bot Preview](https://i.gyazo.com/a9c88dfbfa6b3deeac5117f1bb5225dc.gif)  
 **Stack:** Python, `discord.py`, APIs externas, persistencia con JSON/SQLite
-[Ver web](https://qaliz.vercel.app/)
+
+![Ver web](https://qaliz.vercel.app)
 
 ---
 
