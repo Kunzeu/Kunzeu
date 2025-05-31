@@ -1,3 +1,4 @@
+
 # 👋 Hola, soy Kunzeu
 
 Desarrollador Backend Junior con experiencia en Python, Flask y Django. He creado soluciones reales como bots de Discord conectados a APIs públicas, y sitios web funcionales con Flask. Manejo herramientas como Git, GitHub, HTML/CSS, Bootstrap, y actualmente estoy aprendiendo Docker para desplegar aplicaciones de forma más profesional. Busco oportunidades remotas donde pueda seguir creciendo y aportar valor a proyectos reales.
@@ -6,8 +7,8 @@ Desarrollador Backend Junior con experiencia en Python, Flask y Django. He cread
 ## ⚙️ Tecnologías que uso
 
 - **Lenguajes:** Python, JavaScript, Java
-- **Frameworks y herramientas:** Flask, Jersey, Node.js, Discord API, Tailwind, SQLite, MySQL
-- **Otros:** Git, GitHub, REST APIs, Web Scraping, desarrollo asíncrono, despliegue en Replit/Render
+- **Frameworks y herramientas:** Flask, Node.js, Discord API, Tailwind, SQLite, MySQL
+- **Otros:** Git, GitHub, REST APIs, Web Scraping
 
 ---
 
@@ -32,6 +33,15 @@ Proyecto web responsivo donde se muestran camisetas de fútbol organizadas por e
 
 ---
 
+## GitHub Streak Stack
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kunzeu&theme=tokyonight)](https://git.io/streak-stats)
+
+# Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunzeu&layout=compact&theme=tokyonight)
+
+
 ## 📫 Contacto
 
 - **GitHub:** [github.com/Kunzeu](https://github.com/Kunzeu)
@@ -40,4 +50,8 @@ Proyecto web responsivo donde se muestran camisetas de fútbol organizadas por e
 
 ---
 
+
 > *“La mejor forma de predecir el futuro es creándolo.”*
+
+
+
