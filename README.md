@@ -1,7 +1,8 @@
 
 # 👋 Hola, soy Kunzeu
 
-Desarrollador Backend Junior con experiencia en Python, Flask y Django. He creado soluciones reales como bots de Discord conectados a APIs públicas, y sitios web funcionales con Flask. Manejo herramientas como Git, GitHub, HTML/CSS, Bootstrap, y actualmente estoy aprendiendo Docker para desplegar aplicaciones de forma más profesional. Busco oportunidades remotas donde pueda seguir creciendo y aportar valor a proyectos reales.
+Desarrollador de Software con enfoque en Backend y experiencia en Python, Flask y Django. He desarrollado proyectos reales como bots de Discord integrados con APIs públicas y aplicaciones web funcionales. También tengo experiencia en HTML, CSS, Bootstrap, Git y GitHub, y actualmente estoy aprendiendo Docker para el despliegue de aplicaciones en entornos profesionales. Me interesa crecer en entornos remotos, aportando valor con soluciones eficientes y escalables.
+
 ---
 
 ## ⚙️ Tecnologías que uso
