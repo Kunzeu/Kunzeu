@@ -44,7 +44,6 @@ Proyecto web responsivo donde se muestran camisetas de fútbol organizadas por e
 
 ## 📫 Contacto
 
-- **GitHub:** [github.com/Kunzeu](https://github.com/Kunzeu)
 - **Discord:** [Kunzeu](https://discord.com/users/552563672162107431)
 
 ---
