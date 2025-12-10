@@ -1,7 +1,8 @@
 
 # 👋 Hola, soy Kunzeu
 
-Desarrollador de Software con enfoque en Backend y experiencia en Python, Flask y Django. He desarrollado proyectos reales como bots de Discord integrados con APIs públicas y aplicaciones web funcionales. También tengo experiencia en HTML, CSS, Bootstrap, Git y GitHub, y actualmente estoy aprendiendo Docker para el despliegue de aplicaciones en entornos profesionales. Me interesa crecer en entornos remotos, aportando valor con soluciones eficientes y escalables.
+Desarrollador Full-Stack (nivel medio) con más de 4 años de experiencia en la creación de sistemas escalables, API REST de alto rendimiento, servicios de automatización y aplicaciones web modernas. Ha creado plataformas que gestionan más de 100 000 usuarios mensuales, ha mejorado el rendimiento de las bases de datos en un 40% y ha desarrollado integraciones seguras OAuth2/JWT.
+Gran experiencia en Python, Django, FastAPI, JavaScript, TypeScript, React, Next.js, PostgreSQL, Docker y arquitectura limpia, con enfoque en optimización del rendimiento, fiabilidad y impacto empresarial medible.
 ---
 
 ## ⚙️ Tecnologías que uso
