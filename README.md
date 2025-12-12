@@ -1,6 +1,3 @@
-![Profile views](https://views.igorkowalczyk.dev/api/badge/example?style=flat)
-
-
 # 👋 Hi, I'm Kunzeu
 
 Full-Stack Developer with over 4 years of experience in building scalable systems, high-performance REST APIs, automation services, and modern web applications. I have built platforms that handle over 100,000 monthly users, improved database performance by 40%, and developed secure OAuth2/JWT integrations.
