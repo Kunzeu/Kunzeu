@@ -24,8 +24,8 @@ Discord bot designed to facilitate access to Guild Wars 2 game resources and dat
 
 ---
 
-### 🌐 Jersey Web
-Proyecto web responsivo donde se muestran camisetas de fútbol organizadas por equipo y tipo. Diseñado como vitrina de productos.
+### 🌐 True Farming
+Responsive web project aimed at the Guild Wars 2 community, offering advanced tools to optimize farming through real-time data analysis.
 
 ## ⚙️ Technologies I use
 
