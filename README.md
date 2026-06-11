@@ -6,7 +6,7 @@ Extensive experience in Python, Django, FastAPI, JavaScript, TypeScript, React, 
 
 ## ⚙️ Technologies I use
 
-- **Languages:** Python, JavaScript, Java, 
+- **Languages:** Python, JavaScript, Java, TypeScript
 - **Frameworks and tools:** Flask, Node.js, Discord API, Tailwind, SQLite, MySQL
 - **Others:** Git, GitHub, REST APIs, Web Scraping
 
